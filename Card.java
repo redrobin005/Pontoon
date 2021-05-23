@@ -1,5 +1,7 @@
 package com.bham.pij.assignments.pontoon;
-// @author Anwin Robin
+/**
+ * @author Anwin Robin
+ */
 
 import java.util.ArrayList;
 
